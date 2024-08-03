@@ -1,6 +1,6 @@
 # User Identification through Iris Features via Deep Convolutional Neural Networks
 
-A more detailed description of the project with results is available in the [Report.pdf](./Report.pdf) file.
+A more detailed description of the project with results is available in the [Report](./Report.pdf) file.
 
 
 ## Project Overview
